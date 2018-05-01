@@ -12,7 +12,7 @@ image:
 comments: true
 ---
 <i>{{ page.excerpt }}</i>
-
+testbpc
 This article explains the script that builds a Mac machine with "everything" needed by a professional developer.
 
 This is a <strong>"bootstrapping"</strong> script to enable you to more easily manage the complexity of competing stacks of components and their different versions. Java, Python, Node and their most popular add-ons are covered here.
